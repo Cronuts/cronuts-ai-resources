@@ -129,9 +129,9 @@ No es magia: Claude actúa sobre lo que le pides, con las mismas restricciones d
 
 | Equipo | Casos de uso |
 |--------|-------------|
+| **Producto** | Ejecutar escenarios de automatización de producto, consultar y actualizar data stores, disparar notificaciones |
 | **Growth** | Lanzar automatizaciones de lead generation, consultar datos del CRM automatizado |
 | **Paid Media** | Ejecutar pipelines de reporte, actualizar datos de campañas |
-| **Producto** | Disparar notificaciones automáticas, actualizar data stores |
 | **Contenidos** | Lanzar flujos de publicación, activar workflows de distribución |
 
 **Ejemplos:**
@@ -243,7 +243,7 @@ El mayor valor de los MCPs no es usar uno solo — es encadenarlos:
 | Google Drive | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Gmail | ✓ | ✓ | — | — | — | — | ✓ |
 | Google Calendar | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Make | ✓ | — | — | — | — | — | ✓ |
+| Make | ✓ | ✓ | — | — | — | — | ✓ |
 | Slack | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Figma | — | ✓ | ✓ | — | ✓ | — | — |
 | Gamma | ✓ | ✓ | ✓ | — | — | ✓ | ✓ |
