@@ -92,7 +92,7 @@ Con los MCPs, Claude opera directamente en Notion, Drive, Slack, Gmail, Calendar
 | Google Drive | ✓ | ✓ | ✓ | ✓ |
 | Gmail | ✓ | ✓ | — | ✓ |
 | Google Calendar | ✓ | ✓ | ✓ | ✓ |
-| Make | ✓ | — | — | ✓ |
+| Make | ✓ | ✓ | — | ✓ |
 | Slack | ✓ | ✓ | ✓ | ✓ |
 | Figma | — | ✓ | ✓ | — |
 | Gamma | ✓ | ✓ | ✓ | ✓ |
